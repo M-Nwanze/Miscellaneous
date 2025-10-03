@@ -11,9 +11,12 @@ Build and run:
 ```bash
 docker build -t smartwhale .
 docker run --rm smartwhale
+```
 
 💡 Once published, you'll be able to run:
+```bash
 docker run --rm ghcr.io/M-Nwanze/smartwhale
+```
 …but that day has not come yet. 🌱
 
 Example Output
