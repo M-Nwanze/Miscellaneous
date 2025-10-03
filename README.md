@@ -45,7 +45,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/M-Nwanze/smartwhale.git
 cd smartwhale
-```
+```   
 
 Build the image:
 ```bash
